@@ -10,6 +10,7 @@
     "git.autofetch": true,
     "vim.leader": "<Space>",
     "vim.hlsearch": true,
+
     "vim.normalModeKeyBindingsNonRecursive": [
         // NAVIGATION // switch b/w buffers
         {
